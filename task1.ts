@@ -18,3 +18,6 @@ function checkAge(birthYear:number)
 const userName = "Devi Krishna R";
 const userBirthYear = 2004;
 registerUser(userName, userBirthYear);
+
+
+//  [LOG]: "User Registration Success!" //
